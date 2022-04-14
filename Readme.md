@@ -6,3 +6,6 @@ Layout de acordo com o proposto junto ao cliente, sendo ele o avaliador final da
 ## _Tecnologias utilizadas_
 - HTML
 - CSS
+
+## _Responsável_
+<a href="https://github.com/paulosisti"><img src="https://github.com/paulosisti.png" width="45" height="45"></a> &nbsp;
